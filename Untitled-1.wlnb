@@ -2,7 +2,7 @@
  "cells": [
   {
    "kind": 2,
-   "value": "\nResourceData[\"Jazz Musicians Network\"]\n",
+   "value": "Plot[Sin[x], {x, 0, 10}]",
    "languageId": "wolfram",
    "outputs": [],
    "metadata": {},
