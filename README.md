@@ -1,4 +1,4 @@
 # Networks
 ## jazz musician comunity
-### ![plot](img/network.png)
+### ![plot](img/balkmode.png)
 
